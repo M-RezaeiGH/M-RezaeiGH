@@ -25,5 +25,11 @@ With over 15 years of experience in project management, my passion for AI and da
 - [🏢 Iranian Consultant Clinique](https://iranmcc.com/)  
 - [🔗 LinkedIn Profile](https://www.linkedin.com/in/m-rezaei/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabramooz&show_icons=true&count_private=true)  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabramooz&layout=compact">
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sabramooz&show_icons=true&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabramooz&layout=compact" alt="Top Languages">
+</p>
