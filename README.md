@@ -26,6 +26,7 @@ With over 15 years of experience in project management, my passion for AI and da
 - [🔗 LinkedIn Profile](https://www.linkedin.com/in/m-rezaei/)
 
 
+<!--
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=M-RezaeiGH&show_icons=true&count_private=true" alt="GitHub Stats">
 </p>
@@ -33,5 +34,7 @@ With over 15 years of experience in project management, my passion for AI and da
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-RezaeiGH&layout=compact" alt="Top Languages">
 </p>
+-->
+
 
 
