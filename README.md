@@ -36,5 +36,5 @@ With over 15 years of experience in project management, my passion for AI and da
 </p>
 -->
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-RezaeiGH&layout=compact)
 
