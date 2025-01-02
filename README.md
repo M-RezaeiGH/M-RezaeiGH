@@ -6,7 +6,8 @@ I am a certified Project Management Professional (PMP®) with an above-target sc
 
 With over 15 years of experience in project management, my passion for AI and data science has driven me to expand my expertise into cutting-edge technologies and solutions. My focus lies in the intersection of AI, machine learning, and project management, where I combine technical knowledge with strategic leadership.
 
-Key Technical Skills
+Key Technical Skills:
+
 🧠 Large Language Models (LLMs)
 
     Fine-tuning pre-trained models (e.g., BERT, XLM-RoBERTa) using PyTorch and Hugging Face.
