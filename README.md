@@ -8,28 +8,40 @@ With over 15 years of experience in project management, my passion for AI and da
 
 Key Technical Skills
 🧠 Large Language Models (LLMs)
-•	Fine-tuning pre-trained models (e.g., BERT, XLM-RoBERTa) using PyTorch and Hugging Face.
-•	Implementing advanced Natural Language Processing (NLP) techniques for tasks like NER, text classification, and question answering.
-•	Proficient in managing multilingual datasets and optimizing training pipelines for real-world applications.
+
+    Fine-tuning pre-trained models (e.g., BERT, XLM-RoBERTa) using PyTorch and Hugging Face.
+    Implementing advanced Natural Language Processing (NLP) techniques for tasks like NER, text classification, and question answering.
+    Proficient in managing multilingual datasets and optimizing training pipelines for real-world applications.
+
 🔗 LangChain
-•	Designing and developing sophisticated language-driven applications.
-•	Integrating LLMs with tools like LangChain to create context-aware conversational AI and automation solutions.
-________________________________________
+
+    Designing and developing sophisticated language-driven applications.
+    Integrating LLMs with tools like LangChain to create context-aware conversational AI and automation solutions.
+
 Programming & Machine Learning
-•	💻 Programming Languages: Python, R
-•	🤖 Machine Learning & AI: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, Numpy
+
+    💻 Programming Languages: Python, R
+    🤖 Machine Learning & AI: PyTorch, TensorFlow, Keras, Scikit-learn, Pandas, Numpy
+
 Big Data & Databases
-•	📊 Big Data Technologies: Hadoop, Apache Spark, PySpark, Kafka, Cassandra
-•	💾 Databases: SQL (MySQL), NoSQL (MongoDB)
+
+    📊 Big Data Technologies: Hadoop, Apache Spark, PySpark, Kafka, Cassandra
+    💾 Databases: SQL (MySQL), NoSQL (MongoDB)
+
 Development & Deployment
-•	🚀 Development & Deployment: Docker, FastAPI, Git
+
+    🚀 Development & Deployment: Docker, FastAPI, Git
+
 Data Analysis & Visualization
-•	📈 Data Visualization & Storytelling: Power BI, Tableau, DAX
-•	📅 Time Series Analysis: Prophet, Statsmodels
-•	🎯 Recommender Systems: Scikit-Learn, Pymining
+
+    📈 Data Visualization & Storytelling: Power BI, Tableau, DAX
+    📅 Time Series Analysis: Prophet, Statsmodels
+    🎯 Recommender Systems: Scikit-Learn, Pymining
+
 Specialized Fields
-•	🔍 Process Mining: Celonis, Python, Power BI, ProM
-•	📝 Text Mining: Hazm, Gensim, NLTK, PyTesseract
+
+    🔍 Process Mining: Celonis, Python, Power BI, ProM
+    📝 Text Mining: Hazm, Gensim, NLTK, PyTesseract
 
 
 #### 🌐 Links:  
