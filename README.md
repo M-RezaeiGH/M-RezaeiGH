@@ -62,5 +62,4 @@ Specialized Fields
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-RezaeiGH&layout=compact)
-### Note about Jupyter Notebook Files
-My repositories includes several Jupyter Notebook files (`.ipynb`). These notebooks primarily contain Python code for data analysis, machine learning, or other computational tasks. While GitHub stats may not directly attribute `.ipynb` files to Python, the core language used in these notebooks is Python.
+
